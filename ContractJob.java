@@ -1,3 +1,4 @@
+
 // ContractJob class that extends the abstract class Job
 public class ContractJob extends Job {
     // Declare attributes for contract job and set them to private to secure employee information
